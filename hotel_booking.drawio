@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T04:12:48.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Z5-pBuLFYGXlHSu-xIwl" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-06T04:39:41.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cwrEkPCaMtM2kSzNb591" version="22.1.17" type="github">
   <diagram name="Page-1" id="1y0Lt7-OOQbpv-a5dl2u">
     <mxGraphModel dx="2616" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,13 +49,13 @@
         <mxCell id="HV5neGClS2xwhYB9-4MU-97" value="Payment Service&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="-1370" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HV5neGClS2xwhYB9-4MU-100" value="SQL DB cluster(Booking DB)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="HV5neGClS2xwhYB9-4MU-100" value="SQL DB cluster(Inventory&lt;br&gt;&amp;nbsp;DB)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-960" y="440" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HV5neGClS2xwhYB9-4MU-103" value="LB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="-1470" y="610" width="60" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="HV5neGClS2xwhYB9-4MU-104" value="Reservation Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="HV5neGClS2xwhYB9-4MU-104" value="Inventory Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-1380" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HV5neGClS2xwhYB9-4MU-105" value="Hotel Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
