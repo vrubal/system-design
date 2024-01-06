@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T04:11:12.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="g51vjT24I2sWjkbzRV47" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-06T04:11:56.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kMfeErwlCo93DtFVeJrZ" version="22.1.17" type="github">
   <diagram name="Page-1" id="1y0Lt7-OOQbpv-a5dl2u">
     <mxGraphModel dx="2616" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -121,6 +121,15 @@
           <mxGeometry x="-970" y="280" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HV5neGClS2xwhYB9-4MU-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HV5neGClS2xwhYB9-4MU-120" target="HV5neGClS2xwhYB9-4MU-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HV5neGClS2xwhYB9-4MU-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HV5neGClS2xwhYB9-4MU-132" target="HV5neGClS2xwhYB9-4MU-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HV5neGClS2xwhYB9-4MU-132" value="Notification Service" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="760" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HV5neGClS2xwhYB9-4MU-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.035;entryY=0.972;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HV5neGClS2xwhYB9-4MU-132" target="HV5neGClS2xwhYB9-4MU-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
