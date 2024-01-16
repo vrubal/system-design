@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T03:20:55.464Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.18" etag="vLNT08d3h0zJ-m95v6k1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-16T03:24:25.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DGQSOZoYBsr2-AOwg17F" version="22.1.18" type="github">
   <diagram name="Page-1" id="4o9QpPy65Int9p9pG6Tx">
-    <mxGraphModel>
+    <mxGraphModel dx="1008" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="O-RIxpEM5_p_uLc051se-2" value="&lt;div&gt;1Bn Users %25 DAU&lt;/div&gt;&lt;div&gt;250 mn active user 10(7 Read, 3 Write) actions per day&lt;/div&gt;&lt;div&gt;250*2*10KB == 500 GB Storage -- POST storage&lt;/div&gt;&lt;div&gt;250*10MB == 2500 TB 2.5 PB -- Media Storage&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;10 queries per user 7 read 3 write per day (86400 sec = ~100000 sec/day)&lt;/div&gt;&lt;div&gt;250MN*10/100000 = 25000 25k QPS&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Each server can process ~100 request per seconds&lt;/div&gt;&lt;div&gt;25000/100 = 250 servers&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;X mn * Y KB = XY GB&lt;/div&gt;&lt;div&gt;X mn * Y MB = XY TB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Snoflacke ID format:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1-UnUsed&amp;nbsp;&lt;/div&gt;&lt;div&gt;41-EPOCH&lt;/div&gt;&lt;div&gt;5-DC&lt;/div&gt;&lt;div&gt;5-MACHINE&lt;/div&gt;&lt;div&gt;12-Sequence&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="60" width="510" height="440" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
